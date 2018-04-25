@@ -1,0 +1,9 @@
+include <iostream>
+using namespace std;
+int main ()
+{
+	//menampilkan tulisan Sarangheyo ke layar
+	cout<<"Sarangheyo";
+	return 0;
+}
+
